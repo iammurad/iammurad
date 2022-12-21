@@ -1,6 +1,5 @@
-👋 Hi everyone! I'm a Full Stack Web developer.With a constant desire for self-development! 
-
-Currently I am learning React!
+👋 Hi everyone! I'm a Full Stack Web developer.
+With a constant desire for self-development! 
 
 
 My contacts:
