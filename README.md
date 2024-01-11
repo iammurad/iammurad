@@ -5,6 +5,9 @@
 <p align="left">
 <a href="https://twitter.com/lhumannl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lhumannl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muradzeynalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muradzeynalli" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17895517" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17895517" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/murad_zeynalli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="murad_zeynalli" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/busy4exam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="busy4exam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
